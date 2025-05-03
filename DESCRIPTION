@@ -1,0 +1,14 @@
+Package: cancerous
+Title: Cancer Dataset Analysis
+Description: Analysis of different types of cancers and their causes across 10 different countries and age groups, between 2015 and 2024
+Version: 1.0
+Authors@R: person("Rishabh","Sharma",email="rishabhsharma00071@gmail.com", role= c("aut", "cph","cre"))
+License: MIT + file LICENSE
+Video: https://youtu.be/6FhMfApDg9M
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2025-05-03 21:15:53 UTC; rstudio
+Author: Rishabh Sharma [aut, cph, cre]
+Maintainer: Rishabh Sharma <rishabhsharma00071@gmail.com>
+Depends: R (>= 3.5.0)
